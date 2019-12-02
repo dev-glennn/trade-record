@@ -3,7 +3,7 @@ __📌 Description__<br><br>
 _[EN]_ Code for inserting current price of coin into mysql using api.<br>
 _[KO]_ API를 사용하여 Mysql에 코인의 현재 시세를 입력하는 코드
 <br><br>
-__🤸‍♀️ Step__<br><br>
+__🤸‍♀️ Step__
 ```
 [EN]
 1. Use the update, bitumb, and bitrex APIs on scraping.py to determine the current price for each coin.
